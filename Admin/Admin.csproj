@@ -6369,6 +6369,9 @@
     <Content Include="Content\bower_components\select2\tests\vendor\qunit-1.23.1.css" />
     <Content Include="Content\bower_components\select2\tests\vendor\qunit-1.23.1.js" />
     <Content Include="Content\bower_components\select2\vendor\jquery-2.1.0.js" />
+    <Content Include="Content\css\component.css" />
+    <Content Include="Content\css\demo.css" />
+    <Content Include="Content\css\normalize.css" />
     <Content Include="Content\dist\css\AdminLTE.css" />
     <Content Include="Content\dist\css\AdminLTE.min.css" />
     <Content Include="Content\dist\css\alt\AdminLTE-bootstrap-social.css" />
@@ -6438,6 +6441,17 @@
     <Content Include="Content\dist\js\demo.js" />
     <Content Include="Content\dist\js\pages\dashboard.js" />
     <Content Include="Content\dist\js\pages\dashboard2.js" />
+    <Content Include="Content\img\deco.svg" />
+    <Content Include="Content\img\demo-1-bg.jpg" />
+    <Content Include="Content\img\demo-2-bg.jpg" />
+    <Content Include="Content\img\demo-bg.jpg" />
+    <Content Include="Content\js\demo-1.js" />
+    <Content Include="Content\js\demo-2.js" />
+    <Content Include="Content\js\demo-3.js" />
+    <Content Include="Content\js\demo-4.js" />
+    <Content Include="Content\js\EasePack.min.js" />
+    <Content Include="Content\js\rAF.js" />
+    <Content Include="Content\js\TweenLite.min.js" />
     <Content Include="Content\plugins\bootstrap-slider\bootstrap-slider.js" />
     <Content Include="Content\plugins\bootstrap-slider\slider.css" />
     <Content Include="Content\plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.js" />
@@ -6580,6 +6594,7 @@
     <Content Include="Content\plugins\timepicker\bootstrap-timepicker.js" />
     <Content Include="Content\plugins\timepicker\bootstrap-timepicker.min.css" />
     <Content Include="Content\plugins\timepicker\bootstrap-timepicker.min.js" />
+    <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
